@@ -58,6 +58,9 @@ produkcyjnych narzêdzie do pracy grupowej. U¿ytkownicy mog± zarz±dzaæ
 i wspó³dzieliæ kalendarze, kontakty, zadania i notatki przy u¿yciu
 zgodnych ze standardem komponentów z projektu Horde.
 
+Horde Groupware jest opakowaniem aplikacji dostêpnych samodzielnie:
+Kronolith, Turba, Nag i Mnemo.
+
 Projekt Horde tworzy aplikacje WWW w PHP i wydaje je na licencji GNU
 General Public License. Wiêcej informacji (w³±cznie z pomoc± dla
 Webmail) mo¿na znale¼æ na stronie <http://www.horde.org/>.
