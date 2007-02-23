@@ -16,7 +16,7 @@ Release:	%{?_rc:0.%{_rc}.}%{?_snap:0.%(echo %{_snap} | tr -d -).}%{_rel}
 License:	GPL v2
 Group:		Applications/WWW
 Source0:	ftp://ftp.horde.org/pub/horde-groupware/horde-groupware-%{version}.tar.gz
-# Source0-md5:	-
+# Source0-md5:	430da9624591a7212639686fb7935c01
 #Source1:	%{name}.conf
 #Patch0:	%{name}-prefs.patch
 URL:		http://horde.org/groupware/
