@@ -7,7 +7,6 @@
 #define	_snap	2005-08-01
 %define	_rc		rc1
 %define	_rel	0.1
-%include	/usr/lib/rpm/macros.php
 Summary:	Browser based collaboration suite
 Summary(pl.UTF-8):	Oparte na przeglądarce narzędzie do pracy grupowej
 Name:		horde-%{_hordeapp}
